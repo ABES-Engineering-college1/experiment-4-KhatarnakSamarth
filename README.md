@@ -1,2 +1,41 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/kyRYVy3b)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21151702&assignment_repo_type=AssignmentRepo)
+# SAMARTH VERMA | ECE-1 | 2025B03110142
+---
+# 🧪 Experiment-4
+### Create Web page for Hotel room booking form
+Use of input fields, labels, select, textarea, and buttons.
+
+---
+
+## 🎯 Objectives
+1. To design a hotel room booking form using HTML.
+2. To understand the use of input fields for collecting user details.
+3. To apply labels for form accessibility.
+4. To implement dropdown menus (`<select>`) and text areas.
+5. To create functional buttons for form submission and reset.
+
+---
+
+## 🛠️ Tools Required
+- 💻 Computer / Laptop with any OS  
+- 📝 Text Editor (VS Code, Sublime Text, Notepad++)  
+- 🌐 Web Browser (Chrome, Edge, Firefox)  
+
+---
+
+## 📚 Theory
+
+### 1. Form (`<form>`)
+Defines a section for user input.
+### 2. Input Fields (`<input>`)
+Used for text, numbers, emails, dates, etc.   
+Example: `<input type="text" name="username">`
+### 4. Labels (`<label>`)
+Connects text with form elements for better usability.   
+Example: `<label for="name">Name</label>`
+### 6. Select (`<select>`)
+Provides a dropdown menu.   
+Example: `<select><option>Single</option><option>Double</option></select>`
+### 8. Textarea (`<textarea>`)
+Allows multi-line text input.
+### 9. Buttons (`<button> or <input type="submit">`)
+Used for form submission or reset.
